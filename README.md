@@ -18,4 +18,4 @@
 ## 5. Main File
 - ***IDEA_Final.ino***: collects the data of temperature, humidity, heat index, and moisture levels. When the moisture level is lower than the certain level, water will be provided to three plants.
 
-Copyright (c) © 2019 by Yuki Hinaga. All rights reserved.
+Copyright © 2019 by Yuki Hinaga. All rights reserved.
